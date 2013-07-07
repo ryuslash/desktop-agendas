@@ -1,0 +1,16 @@
+;;; -*- mode: org; -*-
+#+STARTUP: showall
+
+* TODO Fix refiling
+  :PROPERTIES:
+  :CATEGORY: bug
+  :END:
+
+  When =org-refile= is called on a task it throws an error.
+
+* TODO Website
+  :PROPERTIES:
+  :CATEGORY: task
+  :END:
+
+  Write a page on [[http://ryuslash.org]] for this project.
